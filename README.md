@@ -7,4 +7,5 @@
     4. You should find instructions on how to run the project in the ipynb file. Most codes are pretty self explanatory.
     5. The model state corresponding to opt.txt is available for download [here](https://drive.google.com/file/d/1gmkPxmbBvRN0jVUBUpsYHQkZI5mdkZSh/view?usp=sharing). 
 
-- Seq2Seq: TODO
+- Seq2Seq: 
+    1. Please see the seq2seq directory. The directory includes an ipynb notebook and all processed data used for experiments.
