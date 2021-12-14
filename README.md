@@ -9,3 +9,4 @@
 
 - Seq2Seq: 
     1. Please see the seq2seq directory. The directory includes an ipynb notebook and all processed data used for experiments.
+    2. There is a more detailed README in seq2seq directory.
